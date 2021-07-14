@@ -1,7 +1,7 @@
 # 6.006-OCW-Lecture-Algorithms
 Following 2011f 6.006 MIT OCW course lectures, introduction to algorithms, Python scripts to go along with discussed problems and algorithmic solutions are posted here.
 
-For each lecture, if a problem is provided with a corresponding solution discussed, a python script which implements the solution will be in Lec{X}.py, with documentation and appropriate doctests (though not necessarily faithful to the example values given by the professors)
+For each lecture, if a problem is provided with a corresponding solution discussed, a python script which implements the solution will be in Lec{X}.py, with documentation and appropriate doctests (though not necessarily faithful to the example values given by the professors). Python scripts are assumed to be in 3.9, so functionality may break on prior versions.
 
 I will generally try to implement all of the algorithms with the following rules:
   - Only consulting google / stackoverflow for general python help, and not with algorithm implementations
