@@ -3,7 +3,7 @@ import math
 import doctest
 """
 OCW 6.006 Lecture 2 Code Writeup
-Created on Wed Jul 14 08:42:30 2021
+Created on Wed Jul 14 08:43:30 2021
 
 @author: Kevin Bunn
 """
